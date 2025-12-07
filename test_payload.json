@@ -1,0 +1,12 @@
+{
+    "serviceName": "test-service",
+    "endpoint": "/api/test",
+    "method": "GET",
+    "statusCode": 200,
+    "requestSize": 1024,
+    "responseSize": 2048,
+    "latencyMs": 50,
+    "timestamp": "2024-12-07T12:00:00",
+    "rateLimitHit": false,
+    "errorMessage": null
+}
